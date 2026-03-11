@@ -31,10 +31,4 @@ The model uses a BERT transformer from HuggingFace to understand ticket text and
 | Cannot login to my account        | account   |
 | App crashes on startup            | technical |
 
-## Installation
 
-```bash
-git clone https://github.com/yourusername/bert-nlp-ticket-classification.git
-cd bert-nlp-ticket-classification
-pip install -r requirements.txt
-```
